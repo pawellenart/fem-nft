@@ -24,9 +24,9 @@ function App() {
         <h1 class="font-outfit font-semibold text-white text-2xl cursor-pointer hover:text-femcyan">
           Equilibrium #3429
         </h1>
-        <h3 class="font-outfit font-normal text-femsoftblue">
+        <h2 class="font-outfit font-normal text-femsoftblue">
           Our Equilibrium collection promotes balance and calm.
-        </h3>
+        </h2>
         <div className="flex font-outfit font-light justify-between">
           <div className="flex space-x-2 items-center text-femcyan">
             {/* icon ethereum */}
